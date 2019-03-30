@@ -1,0 +1,1 @@
+from sptowey/static-nginx
